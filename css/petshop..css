@@ -37,12 +37,31 @@ nav,a{
 nav a:hover{
     color: #6dd432;
 }
+h2{
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+form{
+    width: 380px;
+}
+form input,
+form textarea{
+    width: 100%;
+    border: 3px solid #6dd432;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+iframe{
+    width: 100%;
+}
 #itemContatos{
     background-image: none;
     padding-right: 0;
     margin-right: 0;
 }
-#produto .flex-conteiner{
+#produto .flex-conteiner, #contado .flex-conteiner{
     margin: 43px;
 }
 
