@@ -110,3 +110,10 @@ iframe{
     border-radius: 5px;
     cursor: pointer;
 }
+footer{
+    color: black;
+    text-align: center;
+    background-color:#91e467 ;
+    margin: 30px;
+    padding: 30px;
+}
